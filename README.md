@@ -1,4 +1,4 @@
-# Wearable Track &amp; Field Locomotion Metric Measuring Device
+# WTF DEVICE (Wearable Track &amp; Field Locomotion Metric Measuring Device)
 by: 
 Rikhil Damarla & Harshith Mummidivarapu
 
