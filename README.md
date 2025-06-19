@@ -1,11 +1,3 @@
-# WTF DEVICE (Wearable Track &amp; Field Locomotion Metric Measuring Device)
+#(Wearable Track &amp; Field Torso Angle Measuring Device)
 by: 
-Rikhil Damarla & Harshith Mummidivarapu
-
-
-
-
-
-
-
-(i really need to come up with a better name for this lol)
+Rikhil Damarla
